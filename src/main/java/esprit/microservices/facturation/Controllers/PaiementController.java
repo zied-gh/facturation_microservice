@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/paiements")
+@RequestMapping("/paiements")
 public class PaiementController {
 
     @Autowired
